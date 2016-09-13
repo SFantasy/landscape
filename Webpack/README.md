@@ -1,6 +1,10 @@
 # Webpack
 
-在使用 Webpack 之前，可以先阅读以下这份文档：[webpack-howto](https://github.com/petehunt/webpack-howto/blob/master/README-zh.md)
+在使用 Webpack 之前，可以先阅读以下这份文档：[webpack-howto](https://github.com/petehunt/webpack-howto/blob/master/README-zh.md) 来了解一下与 Webpack 相关的内容。
+
+**目录**
+
+<!-- toc -->
 
 ## 如何实现目录文件的整体打包
 
