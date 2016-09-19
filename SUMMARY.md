@@ -1,12 +1,11 @@
 Summary
 ---
 
-- [Node.js](Node.js/README.md)
+- [HTML](HTML/README.md)
+- [CSS](CSS/README.md)
 - [ECMAScript](ECMAScript/README.md)
-  - [decorators](ECMAScript/decorators.md)
+- [Node.js](Node.js/README.md)
 - [React](React/README.md)
-- [HTML5](HTML5/README.md)
-  - [Canvas](Canvas/README.md)
 - [Webpack](Webpack/README.md)
 - [HTTP](HTTP/README.md)
 - [Shell](Shell/README.md)
