@@ -1,4 +1,6 @@
 # HTML5
 
-- [Canvas](./Canvas.md)
-- [FileInput](./FileInput.md)
+## 子页面目录
+
+- [Canvas](./Canvas.html)
+- [FileInput](./FileInput.html)
