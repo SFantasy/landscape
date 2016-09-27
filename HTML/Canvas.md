@@ -20,7 +20,7 @@ function wrapText (text, x, y, size) {
 }
 ```
 
-## TIPS
+## 使用图片
 
 - 载入图片需要使用 `onload` 方法
 
@@ -29,6 +29,27 @@ img.onload = e => {
   ctx.drawImage(img, x, y, width, height);
 }
 ```
+
+## 转换为图片格式
+
+```js
+var canvas = document.getElementById('canvas');
+canvas.toDataURL('image/png', 1);
+```
+
+### 安全问题
+
+在使用 `toDataURL` 和 `toBlob` 方法将 Canvas 转换为图片的时候会产生一个安全问题：
+
+```
+Uncaught SecurityError: Failed to execute 'toBlob' on 'HTMLCanvasElement': Tainted canvases may not be exported.
+```
+
+造成这个问题的原因是在 Canvas 中请求并渲染了来自不同域的图片，浏览器不允许再通过 Canvas 的方法转换为图片。
+
+要解决这个问题，可以把图片内容经过同域的服务进行中转。
+
+## 其他
 
 - 清除 Canvas 内容
 
