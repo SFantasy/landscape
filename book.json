@@ -1,5 +1,10 @@
 {
-  "plugins": ["toc"],
+  "title": "landscape",
+  "author": "Fantasy Shao",
+  "plugins": [
+    "toc",
+    "expandable-chapters"
+  ],
   "pluginsConfig": {
     "toc": {
       "addClass": true,
