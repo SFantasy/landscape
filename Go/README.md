@@ -1,10 +1,10 @@
 # Go
 
-The Go Programming Language
+Go 语言 (The Go Programming Language)
 
 ## 安装
 
-Go 语言，当前版本为 1.7.1
+Go 语言，当前版本为 1.7.*
 
 ```
 brew install golang
