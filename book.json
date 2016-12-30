@@ -2,8 +2,7 @@
   "title": "landscape",
   "author": "Fantasy Shao",
   "plugins": [
-    "toc",
-    "expandable-chapters"
+    "toc"
   ],
   "pluginsConfig": {
     "toc": {
