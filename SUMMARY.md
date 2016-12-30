@@ -18,7 +18,8 @@ Contents
 - [Node.js](Node.js/README.md)
   - npm
     - [semver](Node.js/npm/semver.md)
-- [FP](FP/README.md)
+- FP
+  - [concepts](FP/concepts.md)
 - Computer Science
   - [Network](CS/Network/README.md)
     - [HTTP](HTTP/README.md)
@@ -27,4 +28,5 @@ Contents
   - [PLT](CS/PLT/README.md)
   - [Compiler](CS/Compiler/READMD.md)
 - Others
+  - [Shell](Shell/README.md)
   - [app using under macOS](Others/app.md)
