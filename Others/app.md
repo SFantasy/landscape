@@ -11,6 +11,10 @@
 - Atom
 - Spacemacs (Emacs)
 
+## System tool
+
+- Daisy Disk
+
 ## Productive
 
 - XMind
@@ -20,12 +24,10 @@
 - Be Focused
 - Skim (PDF Reader)
 
-## Writing
+## Notes && writing
 
 - Typora
-
-## Notes
-
+- Quiver
 - Evernote
 - Boostnote
 
